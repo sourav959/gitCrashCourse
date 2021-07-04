@@ -35,4 +35,34 @@
 > * SVN is much easier to learn as compared to git.
 
 ---
+> ### What is Git and why it is used ?
+* Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
+> ### What is Github and why it is used ?
+* Github is a web-based platform used for version control. Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project. ... Create Repository in Github.
 
+---
+> ###  Git vs Github
+                        Git              ||          Github
+> * Git is a software.
+> * GitHub is a service.
+
+> * Git is a command-line tool.
+> * GitHub is a graphical user interface.
+
+> * Git is installed locally on the system.
+> * GitHub is hosted on the web.
+
+> * Git is maintained by linux.
+> * GitHub is maintained by microsoft.
+
+> * Git is focused on version control and code sharing.
+> * GitHub is focused on centralized source code hosting.
+
+> * Git is a version control system to manage source code history.
+> * GitHub is a hosting service for Git repositories.
+
+> * Git was first released in 2005.
+> * GitHub was launched in 2008.
+
+> * Git has no user management feature.
+> * GitHub has built-in user management feature.
